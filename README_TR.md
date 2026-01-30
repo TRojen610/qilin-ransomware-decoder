@@ -3,6 +3,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/Lisans-MIT-green)
+![Status](https://img.shields.io/badge/Status-Research%20Only-orange)
+
 
 Bu depo, **Qilin** fidye yazılımının belirli bir varyantı için geliştirilmiş bir deşifre aracı içerir.
 
@@ -36,7 +38,7 @@ Deşifre aracını kullanmak için şu adımları izleyin:
 
 Depoyu klonlayın:
 ```bash
-git clone https://github.com/TRojen610/qilin-decryptor.git
+git clone https://github.com/TRojen610/qilin-ransomware-decoder.git
 cd qilin-decryptor
 Şifreli dosyalar için bir klasör oluşturun:
 
